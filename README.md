@@ -23,7 +23,7 @@ Fetch API
 
 ⚙️ Getting Started
 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/code-editor-frontend.git
+git clone https://github.com/swapnar07122002/code-editor-frontend.git
 cd code-editor-frontend
 
 2. Install dependencies
